@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2353da50-0f7e-4634-b443-32b6e0a557c3/deploy-status)](https://app.netlify.com/projects/makeqr/deploys)
+
+
 # [QR Code Generator | Version 2.0.0](qr.junglestar.org)
 
 A lightweight, single-file QR code generator that creates both SVG and PNG downloads. No backend, no dependencies (well we embed qrcode.js, hum... at build time!). Just pure, efficient client-side magic.
